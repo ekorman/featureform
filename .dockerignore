@@ -1,4 +1,0 @@
-bazel-*
-dist
-__pycache__
-Dockerfile
