@@ -128,7 +128,7 @@ class TestCLI:
     Test = Quickstart
 
     def test_setup(self):
-        os.system('featureform apply client/examples/local_quickstart.py --local')
+        os.system('featureform apply ../examples/local_quickstart.py --local')
 
 
 class TestResourceClient:
